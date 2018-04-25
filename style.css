@@ -1,0 +1,89 @@
+body{
+	text-align: center;
+	font-family: arial;
+}
+h1 {
+	font-family: 'Do Hyeon', sans-serif;
+}
+a {
+	font-size: 13px;
+	text-decoration: none;
+}
+.order-button:hover{
+	color: red;
+}
+h4{
+	font-size: 20px;
+}
+p{
+	font-size: 14px;
+	padding-bottom: 20px;
+	margin: 20px;
+	padding: 20px;
+}
+
+img{
+	margin: 30px;
+}
+
+.icon-size{
+	font-size: 35px;
+}
+
+#body{
+	background-color: white;
+	padding: 60px;
+}
+
+#call_to_action{
+	background-color: #2B8CE3;
+	padding-top: 16px; 
+
+}
+
+#banner{
+	background: linear-gradient(135deg,
+                            rgba(36, 94, 11,0.3) 0%,
+                            rgba(94,119,250,0.5)50%),
+            url('images/food.jpg');
+	background-size: cover;
+	background-position : center;
+	margin: -20px;
+	padding: 150px;
+	color:white;
+	
+}	
+
+ #footer {
+ 	margin : 0px;
+ 	padding: 30px;
+ 	background-color: black;
+ 	color: white;
+ 	padding-bottom: 5px;
+ 	align-items:  center;
+ 	
+ }
+
+.my-button{
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
