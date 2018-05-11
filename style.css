@@ -5,7 +5,7 @@
 	background-position: center;
 	height: 705px;
 	
-	font-family: londrina solid;
+	font-family: 'londrina solid', cursive;
 	position: relative;
 
 }
@@ -44,17 +44,17 @@ a:hover{
 .cto{ 
 	box-shadow: 0.5px 0.5px 2px black;
 	margin: 25px;
-	font-family: boogaloo;
+	font-family: 'boogaloo', cursive;
 }
 
 h3 {
-	font-family: londrina solid;
+	font-family: 'londrina solid', cursive;
 	font-size : 25px;
 
 }
 
 #headcontenu{
-	font-family: bangers;
+	font-family: 'bangers', cursive;
 	text-align: center;
 	margin-left: 50px;
 	margin-top: 30px;
@@ -64,7 +64,7 @@ h3 {
 }
 
 #headcontenufonctionnement{
-	font-family: bangers;
+	font-family: 'bangers', cursive;
 	text-align: center;
 	margin-left: 20px;
 	margin-top: 50px;
@@ -92,7 +92,7 @@ img {
 }
 
 #contenu{
-	font-family: londrina solid;
+	font-family: 'londrina solid', cursive;
 
 }
 
@@ -127,7 +127,7 @@ margin-left: 6px;
 }
 
 .name{
-	font-family: bangers;
+	font-family: 'bangers', cursive;
 	color: #FF5964;
 
 }
@@ -142,7 +142,7 @@ margin-left: 6px;
 }
 
 #accroche{
-	font-family: londrina solid;
+	font-family: 'londrina solid', cursive;
 	font-size: 30px;
 	margin: 10px;
 	margin-top: 50px;
@@ -173,18 +173,18 @@ margin-left: 6px;
  }
 
  .logors{
- 	align-content: center;
+ 	align-items: center;
  	font-size: 40px;
  	
  }
 
  #mc_embed_signup{
  	color: black;
- 	font-family: londrina solid;
+ 	font-family: 'londrina solid', cursive;
  }
 
  #info{
- 	font-family: londrina solid;
+ 	font-family: 'londrina solid', cursive;
  	position: absolute;
  	left: 550px;
 
